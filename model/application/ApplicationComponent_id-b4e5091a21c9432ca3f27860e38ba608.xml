@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External System Software"
+    id="id-b4e5091a21c9432ca3f27860e38ba608">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+</archimate:ApplicationComponent>

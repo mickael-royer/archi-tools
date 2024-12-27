@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Container"
+    id="id-56e948812caf481fb15f9ffb200c8aa4">
+  <properties
+      key="Stereotype"
+      value="Container"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Person"
+    id="id-40b033528a594be686b1f17b4f90e168">
+  <properties
+      key="Stereotype"
+      value="Person"/>
+</archimate:BusinessActor>

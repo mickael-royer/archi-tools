@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Node"
+    id="id-39dd65a48ead4d538bb196e46bea0e8d">
+  <properties
+      key="Stereotype"
+      value="Deployment Node"/>
+</archimate:Node>

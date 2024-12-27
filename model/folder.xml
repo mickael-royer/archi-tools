@@ -1,0 +1,21 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toolbox"
+    id="id-d92af104ed624d5393e3f90a4d7580df"
+    version="5.0.0">
+  <profiles
+      name="Container Instance"
+      id="id-19ae765ddf7c4d5099d322dd2d58f6fa"
+      imagePath="images/_5aIjAH_lEe2cRdVGGBa1OQ.png"
+      conceptType="Node"/>
+  <profiles
+      name="Cosmos DB"
+      id="id-6778ceb3c44e4081b42cf209dac81076"
+      imagePath="images/_zYqd4H_nEe2cRdVGGBa1OQ.png"
+      conceptType="Node"/>
+  <profiles
+      name="Storage"
+      id="id-6f3193a0d6e444fdb7375b38e804fda0"
+      imagePath="images/__hf38H_nEe2cRdVGGBa1OQ.png"
+      conceptType="Node"/>
+</archimate:ArchimateModel>
